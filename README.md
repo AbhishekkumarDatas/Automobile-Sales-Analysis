@@ -33,4 +33,5 @@ EDA involved exploring the sales data to answer key questions, such as:
   3. Sedan,hardop and convertible have highest price, hatchback has lowest price
   4. Toyota has maximum numbers of vehicles , Mercury make is at the bottom
   5. Negative correlation shows lower the curb weight better  will be the fuel Economy.
+  6. This Data is Beneficial for customers to make choice which vehicle they should go with. Also, it can be used by other company that how other company are working.
 
